@@ -1,0 +1,11 @@
+{
+  "change_id": "FIN-DEMO-001",
+  "test_coverage": 91,
+  "contains_secrets": false,
+  "uses_pii": true,
+  "pii_approval": true,
+  "financial_impact": 50000,
+  "risk_approval": false,
+  "automated_financial_decision": true,
+  "explanation_available": true
+}
